@@ -19,5 +19,5 @@
 * 주문에 따른 리뷰 작성 및 수정, 삭제
 * 주문 내역 확인 및 삭제
 ## ERD
-
+![ERD](https://user-images.githubusercontent.com/75529454/181455155-e91baebe-3f98-4c8b-90f1-2cc881e89312.png)
 ## Logic Process
