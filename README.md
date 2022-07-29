@@ -7,11 +7,20 @@
 * 많은 요소들을 Ajax로 구현을 해 동적인 웹 페이지 구현
 ## 개발환경
 * Front-End<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Ajax](https://img.shields.io/badge/Ajax-258CCF?style=for-the-badge&logo=&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/Ajax-258CCF?style=flat-square&logo=&logoColor=white)<br>
 * Back-End<br>
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![JSP](https://img.shields.io/badge/JSP-E56F1F?style=for-the-badge&logo=&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-5D4849?style=for-the-badge&logo=&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
+![JSP](https://img.shields.io/badge/JSP-E56F1F?style=flat-square&logo=&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-5D4849?style=flat-square&logo=&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 * API<br>
-![coolsms](https://img.shields.io/badge/coolsms-6199D2?style=for-the-badge&logo=&logoColor=black) ![kakaomap](https://img.shields.io/badge/kakaomap-FAE100?style=for-the-badge&logo=&logoColor=black) ![kakao 우편번호](https://img.shields.io/badge/kakao우편번호-FAE100?style=for-the-badge&logo=&logoColor=black)
+![coolsms](https://img.shields.io/badge/coolsms-6199D2?style=flat-square&logo=&logoColor=black)
+![kakaomap](https://img.shields.io/badge/KAKAO%20Map-FAE100?style=flat-square&logo=&logoColor=black)
+![kakao 우편번호](https://img.shields.io/badge/KAKAO%20우편번호-FAE100?style=flat-square&logo=&logoColor=black)
 ## 주요 개발기능
 * 회원가입, 로그인, 아이디/비밀번호 찾기
 * coolsms API, 카카오 우편 번호 API, 카카오맵 API
